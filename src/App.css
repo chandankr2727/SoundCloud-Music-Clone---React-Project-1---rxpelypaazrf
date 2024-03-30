@@ -1,0 +1,67 @@
+
+#header-banner-desktop {
+    box-shadow: inset 0 120px 40px -40px rgba(5,5,5,.5);
+    text-shadow: 0 0 3px rgba(5,5,5,.5);
+}
+
+#header-search::placeholder {
+    background-color: #00000012;
+    padding: 2rem;
+    border-radius: 4px;
+}
+
+#bg-for-mobile {
+    background-color: black;
+    color: white;
+}
+    #google-tab-for-mobile {
+        background-color: #303030;
+    }
+
+    #apple-tab-for-mobile {
+        border: 1px solid #999;
+    }
+
+    #line-for-mobile{
+        border-top: 1px solid white;
+    }
+
+    #submit-button-for-mobile {
+        background-color: rgba(255, 255, 255, 0.5);
+        color: black;
+    }
+    
+    #anchor-tag-for-mobile {
+        color: #699fff;
+    }
+
+#bg-for-desktop {
+    background-color: white;
+    color: black;
+}
+    #google-tab-for-desktop {
+        border: 1px solid #ccc;
+    }
+
+    #apple-tab-for-desktop {
+        border: 1px solid #ccc;
+        background-color: black;
+    }
+
+    #line-for-desktop{
+        border-top: 1px solid black;
+    }
+
+    #submit-button-for-desktop {
+        background-color: #f50;
+        color: white;
+    }
+
+    #anchor-tag-for-desktop {
+        color: #044dd2;
+    }
+
+
+
+
+
